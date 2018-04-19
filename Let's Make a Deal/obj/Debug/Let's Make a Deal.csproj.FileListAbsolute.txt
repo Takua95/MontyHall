@@ -1,0 +1,10 @@
+C:\Users\cabrannon54955\Documents\Visual Studio 2017\Repos\Let's Make a Deal\Let's Make a Deal\bin\Debug\Let's Make a Deal.exe.config
+C:\Users\cabrannon54955\Documents\Visual Studio 2017\Repos\Let's Make a Deal\Let's Make a Deal\bin\Debug\Let's Make a Deal.exe
+C:\Users\cabrannon54955\Documents\Visual Studio 2017\Repos\Let's Make a Deal\Let's Make a Deal\bin\Debug\Let's Make a Deal.pdb
+C:\Users\cabrannon54955\Documents\Visual Studio 2017\Repos\Let's Make a Deal\Let's Make a Deal\obj\Debug\Let's Make a Deal.csprojResolveAssemblyReference.cache
+C:\Users\cabrannon54955\Documents\Visual Studio 2017\Repos\Let's Make a Deal\Let's Make a Deal\obj\Debug\Let_s_Make_a_Deal.Form1.resources
+C:\Users\cabrannon54955\Documents\Visual Studio 2017\Repos\Let's Make a Deal\Let's Make a Deal\obj\Debug\Let_s_Make_a_Deal.Properties.Resources.resources
+C:\Users\cabrannon54955\Documents\Visual Studio 2017\Repos\Let's Make a Deal\Let's Make a Deal\obj\Debug\Let's Make a Deal.csproj.GenerateResource.cache
+C:\Users\cabrannon54955\Documents\Visual Studio 2017\Repos\Let's Make a Deal\Let's Make a Deal\obj\Debug\Let's Make a Deal.csproj.CoreCompileInputs.cache
+C:\Users\cabrannon54955\Documents\Visual Studio 2017\Repos\Let's Make a Deal\Let's Make a Deal\obj\Debug\Let's Make a Deal.exe
+C:\Users\cabrannon54955\Documents\Visual Studio 2017\Repos\Let's Make a Deal\Let's Make a Deal\obj\Debug\Let's Make a Deal.pdb
